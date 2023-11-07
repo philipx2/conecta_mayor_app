@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59805176165",
+    "project_id": "prueba-conecta-mayor",
+    "storage_bucket": "prueba-conecta-mayor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59805176165:android:24da19e92cf001bf45918c",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF8TpGnDD25C6WOvK8c-SYvTf_HGjjm6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
